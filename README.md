@@ -14,5 +14,6 @@ After we have s3 backend we can run our module from terraform folder
 
 After a few minuter ec2 instance will be created and the following URL will be accessible on port 80 - for example :
 
-http://52.72.68.113/redis/redis
-http://52.72.68.113/elastic/elasticsearch
+http://34.205.192.144/redis/redis
+http://34.205.192.144/elastic/elasticsearch
+
